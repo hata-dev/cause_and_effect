@@ -14,7 +14,7 @@
 「Branch name」にブランチ名として「develop」を入力し、「Create branch」ボタンをクリックします。
 
 ## 手順3: Visual Studio Codeのインストールと設定
-[Microsoft Visual Studio Codeのウェブサイト](https://code.visualstudio.com)から、適切なプラットフォーム向けのインストーラをダウンロードしてインストールします。  
+[Microsoft Visual Studio Codeのウェブサイト](https://code.visualstudio.com/Download)から、適切なプラットフォーム向けのインストーラをダウンロードしてインストールします。  
 Visual Studio Codeを起動し、左側のサイドバーで「Extensions（拡張機能）」アイコンをクリックします。  
 検索バーに「GitHub」と入力し、表示された「GitHub Pull Requests and Issues」拡張機能をインストールします。
 
