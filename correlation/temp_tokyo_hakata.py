@@ -4,6 +4,9 @@ import matplotlib.pyplot as plt
 #pip install matplotlib
 from datetime import datetime, timedelta
 
+# データ取得先
+# https://www.data.jma.go.jp/risk/obsdl/index.php
+
 # データの読み込み
 data1 = pd.read_csv('C:\\Users\\endst\\.vscode\\repository\\cause_and_effect\\correlation\\test_csv\\data.csv')
 data2 = pd.read_csv('C:\\Users\\endst\\.vscode\\repository\\cause_and_effect\\correlation\\test_csv\\data2.csv')
