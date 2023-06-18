@@ -41,7 +41,8 @@ https://web-engineer-wiki.com/git/init-push/
    - 右のソースからBranchの発行
    - git remote add origin https://github.com/hata-dev/case_and_effect.git
    - git remote -v で紐づき確認
-   - git pull origin
+   - git pull origin develop
+   - git pull <リモート名> <ブランチ名>
    
 ## テスト用追加テキスト
 

@@ -1,11 +1,13 @@
 
 
-## 手順1: GitHubアカウントの作成とリポジトリの作成
+## 手順1: GitHubアカウントの作成と
 
 [GitHubのウェブサイト](https://github.com)にアクセスし、アカウントを作成します。  
+
+### リポジトリの作成(実施不要)
 ログイン後、新しいリポジトリを作成します。リポジトリ名や説明を入力し、必要に応じてリポジトリを初期化するオプションを選択します。
 
-## 手順2 Githubのdevelopブランチの作成
+## 手順2 Githubのdevelopブランチの作成(実施不要)
 
 リポジトリのページに移動し、「Branches」をクリックします。
 「New Branch」をクリックします。   
@@ -21,6 +23,9 @@ Visual Studio Codeを起動し、メニューの「View（表示）」から「C
 コマンドパレットで「Git: Clone（Git: クローン）」と入力し、Enterキーを押します。  
 リポジトリのURLを入力し、Enterキーを押します。  
 リポジトリのクローン先のディレクトリを選択し、Enterキーを押します。
+
+- リポジトリURL
+https://github.com/hata-dev/cause_and_effect.git
 
 ## 手順5: Gitの設定
 
