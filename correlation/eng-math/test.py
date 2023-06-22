@@ -26,8 +26,7 @@ print("相関係数:" , correlation)
 # 相関係数: 0.6268027245323116
 
 # プロット
-plt.scatter(merged_data['math'], merged_data['english'], c='blue', label='math')
-plt.scatter(merged_data['math'], merged_data['english'], c='red', label='english')
+plt.scatter(merged_data['math'], merged_data['english'], c='red', label='math')
 
 # グラフのタイトルと軸ラベルの設定
 
