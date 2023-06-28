@@ -20,18 +20,40 @@
 
 - 分析データの取得をどこからかのページから取得できるようにする
   - わからないがたぶんfor文使いそう
+- BeautifulSoupやRequestsモジュール
 
-[Webスクレイピング](https://udemy.benesse.co.jp/development/python-work/web-scraping.html)
+- [Webスクレイピング](https://udemy.benesse.co.jp/development/python-work/web-scraping.html)
+
+- [データセット](https://www.tryeting.jp/column/2407/)
+  - [民間企業提供データ](https://www.nii.ac.jp/dsc/idr/datalist.html)
+    - 無料だけど利用規約だったり申し込みがめんどそう
+- [AI・機械学習のデータセット辞典](https://atmarkit.itmedia.co.jp/ait/series/17285/)
+- [機械学習用データセット一覧](https://phy-lum.com/opendata/machine-learning-dataset.html#a2)
 
 
-### 法人情報
+
+### APIでの取得
 
 - csvを持ってこれるがAPIでデータ取得できそう
 - データ欠損もありそうだから整形もやっていきたい
 
-[法人情報](https://metidx-gov.note.jp/n/n940aa810ab83)
+- [法人情報](https://metidx-gov.note.jp/n/n940aa810ab83)  
+- [WebAPI一覧](https://it-jog.com/wapi/webapis)
+- [APIbank](https://www.apibank.jp/ApiBank/api?category_no=16)
 
-[WebAPI一覧](https://it-jog.com/wapi/webapis)
+### 天気予報アプリ
+
+- OpenWeatherMapなどの天気予報APIを使用して、指定した場所の天気情報を表示するアプリを作成します。
+- ユーザーが都市名や郵便番号を入力すると、天気情報が表示されます。
+
+### オンライン辞書アプリ
+
+- オンライン辞書APIを使用して、指定した単語の定義や意味を表示するアプリを作成します。
+
+
+
+
+
 
 
 
