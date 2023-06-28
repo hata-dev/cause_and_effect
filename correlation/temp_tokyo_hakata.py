@@ -25,6 +25,8 @@ latest_data1 = data1.tail(365)
 latest_data3 = data3.tail(365)
 
 # 日付をキーにしてデータをマージ
+# 日付をキーにしなくてよさそう。もしやるならデータを整形してある期間だけを抽出する
+# https://sci-pursuit.com/math/statistics/correlation-coefficient.html
 # merged_data = pd.merge(latest_data1, latest_data2, on='年月日')
 merged_data = pd.merge(latest_data1, latest_data3, on='年月日')
 
